@@ -1,4 +1,4 @@
-# PopX — Educase Qualifier
+# PopX — Educase Assignment
 
 React UI for the PopX mobile flow (landing, signup, login, profile). The app is shown as a centered phone frame on desktop.
 
@@ -10,12 +10,12 @@ React UI for the PopX mobile flow (landing, signup, login, profile). The app is 
 
 ## Pages
 
-| Route | Screen |
-|-------|--------|
-| `/` | Welcome — Create Account / Login |
-| `/register` | Signup form |
-| `/login` | Login form |
-| `/profile` | Account settings & profile |
+| Route       | Screen                           |
+| ----------- | -------------------------------- |
+| `/`         | Welcome — Create Account / Login |
+| `/register` | Signup form                      |
+| `/login`    | Login form                       |
+| `/profile`  | Account settings & profile       |
 
 ## Run locally
 
